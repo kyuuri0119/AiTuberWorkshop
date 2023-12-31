@@ -1,0 +1,2 @@
+# AiTuberWorkshop
+AITuberを作ってみたら生成AIプログラミングがよくわかった件 をやってみる
